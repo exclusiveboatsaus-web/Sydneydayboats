@@ -1,2 +1,2 @@
 # Sydneydayboats
-Sydney Harbour Day boats for hire and charter
+Sydney Harbour Day boats for hire and charter.
